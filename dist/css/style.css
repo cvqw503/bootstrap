@@ -1,0 +1,19 @@
+.contact h2 {
+  font-size: 34px;
+  font-weight: 100;
+  margin-bottom: 89.6px;
+}
+.contact h2:after {
+  content: '';
+  width: 100px;
+  height: 1px;
+  background: #ff2d55;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.8em;
+  margin: 0 auto;
+}
+.center-block {
+  float: none;
+}
